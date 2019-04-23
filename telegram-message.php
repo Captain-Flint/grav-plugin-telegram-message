@@ -39,9 +39,9 @@ class TelegramMessagePlugin extends Plugin
         }
 
         // Enable the main event we are interested in
-        $this->enable([
-            'onPageContentRaw' => ['onPageContentRaw', 0]
-        ]);
+//        $this->enable([
+//            'onPageContentRaw' => ['onPageContentRaw', 0]
+//        ]);
     }
 
     public function onFormProcessed(Event $event)
