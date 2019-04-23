@@ -1,0 +1,6 @@
+en:
+  PLUGIN_TELEGRAM_MESSAGE:
+    BOT_TOKEN: Bot token
+    BOT_TOKEN_HELP: Telegram bot token
+    CHAT_ID: Telegram chat_id
+    CHAT_ID_HELP: Telegram chat_id
